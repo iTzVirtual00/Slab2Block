@@ -1,0 +1,5 @@
+name: Slab2Block
+version: ${project.version}
+main: me.itzvirtual.utility.slab2block.MainClass
+api-version: 1.16
+authors: [ iTzVirtual ]
